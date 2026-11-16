@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#191512"/><stop offset="100%" stop-color="#2c2219"/></linearGradient>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f5e0a0"/><stop offset="100%" stop-color="#c9a84c"/></linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <circle cx="300" cy="320" r="160" fill="none" stroke="url(#g)" stroke-width="1.5" opacity="0.25"/>
+  <ellipse cx="300" cy="340" rx="140" ry="70" fill="#8c5835" stroke="#f5e0a0" stroke-width="2"/><path d="M220 320 Q300 260 380 320" stroke="#f5e0a0" stroke-width="8" fill="none"/><path d="M240 350 Q300 300 360 350" stroke="#c9a84c" stroke-width="6" fill="none"/>
+  <text x="300" y="620" font-family="'Playfair Display', Georgia, serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">Woven Leather Sandals</text>
+  <text x="300" y="650" font-family="'Inter', sans-serif" font-size="13" fill="url(#g)" text-anchor="middle" letter-spacing="1">FOOTWEAR � ?22,000</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0e1524"/><stop offset="100%" stop-color="#16223b"/></linearGradient>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f5e0a0"/><stop offset="100%" stop-color="#c9a84c"/></linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <circle cx="300" cy="320" r="160" fill="none" stroke="url(#g)" stroke-width="1.5" opacity="0.25"/>
+  <path d="M160 220 L440 220 L410 490 L300 520 L190 490 Z" fill="#203a6b" stroke="#c9a84c" stroke-width="3"/><path d="M260 220 L300 360 L340 220 Z" fill="#c9a84c"/><circle cx="300" cy="140" r="26" fill="#c9a84c"/>
+  <text x="300" y="620" font-family="'Playfair Display', Georgia, serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">Slim-Fit Agbada Set</text>
+  <text x="300" y="650" font-family="'Inter', sans-serif" font-size="13" fill="url(#g)" text-anchor="middle" letter-spacing="1">MEN'S BESPOKE � ?65,000</text>
+</svg>

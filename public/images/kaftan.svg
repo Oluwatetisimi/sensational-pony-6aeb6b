@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#181410"/><stop offset="100%" stop-color="#2a2216"/></linearGradient>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f5e0a0"/><stop offset="100%" stop-color="#c9a84c"/></linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <circle cx="300" cy="320" r="160" fill="none" stroke="url(#g)" stroke-width="1.5" opacity="0.25"/>
+  <path d="M300 160 L200 240 L230 520 L370 520 L400 240 Z" fill="#c9a84c" opacity="0.85" stroke="#f5e0a0" stroke-width="2.5"/><path d="M290 200 L310 200 L305 450 L295 450 Z" fill="#ffffff"/><circle cx="300" cy="120" r="22" fill="#c9a84c"/>
+  <text x="300" y="620" font-family="'Playfair Display', Georgia, serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">Embroidered Kaftan Gown</text>
+  <text x="300" y="650" font-family="'Inter', sans-serif" font-size="13" fill="url(#g)" text-anchor="middle" letter-spacing="1">WOMEN'S COUTURE � ?38,000</text>
+</svg>

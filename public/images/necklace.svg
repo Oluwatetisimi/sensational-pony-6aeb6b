@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#121214"/><stop offset="100%" stop-color="#1d1d24"/></linearGradient>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f5e0a0"/><stop offset="100%" stop-color="#c9a84c"/></linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <circle cx="300" cy="320" r="160" fill="none" stroke="url(#g)" stroke-width="1.5" opacity="0.25"/>
+  <circle cx="300" cy="320" r="120" fill="none" stroke="#c9a84c" stroke-width="5"/><circle cx="300" cy="320" r="90" fill="none" stroke="#f5e0a0" stroke-width="3" stroke-dasharray="8 6"/><polygon points="300,430 315,460 285,460" fill="#c9a84c"/>
+  <text x="300" y="620" font-family="'Playfair Display', Georgia, serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">Gold-Chain Necklace Set</text>
+  <text x="300" y="650" font-family="'Inter', sans-serif" font-size="13" fill="url(#g)" text-anchor="middle" letter-spacing="1">ACCESSORIES � ?12,000</text>
+</svg>

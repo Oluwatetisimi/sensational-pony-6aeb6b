@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#141416"/><stop offset="100%" stop-color="#24201c"/></linearGradient>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f5e0a0"/><stop offset="100%" stop-color="#c9a84c"/></linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <circle cx="300" cy="320" r="160" fill="none" stroke="url(#g)" stroke-width="1.5" opacity="0.25"/>
+  <path d="M190 380 Q240 390 310 390 L420 390 Q440 390 440 350 L420 310 Q370 310 350 280 Q320 230 280 230 Q240 230 240 300 Z" fill="#b07d4f" stroke="#f5e0a0" stroke-width="2.5"/><rect x="400" y="360" width="30" height="40" rx="4" fill="#664426"/>
+  <text x="300" y="620" font-family="'Playfair Display', Georgia, serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">Premium Leather Derby Shoes</text>
+  <text x="300" y="650" font-family="'Inter', sans-serif" font-size="13" fill="url(#g)" text-anchor="middle" letter-spacing="1">FOOTWEAR � ?55,000</text>
+</svg>

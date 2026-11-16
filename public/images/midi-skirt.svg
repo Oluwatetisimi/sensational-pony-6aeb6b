@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1e1418"/><stop offset="100%" stop-color="#301d24"/></linearGradient>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f5e0a0"/><stop offset="100%" stop-color="#c9a84c"/></linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <circle cx="300" cy="320" r="160" fill="none" stroke="url(#g)" stroke-width="1.5" opacity="0.25"/>
+  <path d="M250 220 L350 220 L400 480 Q300 510 200 480 Z" fill="#d95d39" opacity="0.9" stroke="#f5e0a0" stroke-width="2.5"/><path d="M260 280 Q300 320 340 280" stroke="#f0c808" stroke-width="6" fill="none"/><path d="M230 380 Q300 420 370 380" stroke="#087e8b" stroke-width="6" fill="none"/>
+  <text x="300" y="620" font-family="'Playfair Display', Georgia, serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">Tie-Dye Midi Skirt</text>
+  <text x="300" y="650" font-family="'Inter', sans-serif" font-size="13" fill="url(#g)" text-anchor="middle" letter-spacing="1">WOMEN'S WEAR � ?14,500</text>
+</svg>
